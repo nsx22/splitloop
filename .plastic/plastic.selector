@@ -1,0 +1,4 @@
+repository "Splitloop@a_game@cloud"
+  path "/"
+    br "/main"
+    co "/main"
